@@ -10,3 +10,5 @@ This is a sample repo, hello world!
 - git push origin master
 
 - git diff README.md
+
+- git log
