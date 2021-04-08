@@ -12,3 +12,5 @@ This is a sample repo, hello world!
 - git diff README.md
 
 - git log
+
+- git checkout README.md
