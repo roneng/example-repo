@@ -14,3 +14,12 @@ This is a sample repo, hello world!
 - git log
 
 - git checkout README.md
+
+-- create a new Branch
+   git branch develop
+   
+-- list all branches
+   git branch
+   
+-- switch to develop branch
+   git checkout develop
