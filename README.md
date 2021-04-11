@@ -18,8 +18,14 @@ This is a sample repo, hello world!
 -- list all branches
    git branch
    
+-- git add and commit in one command
+   git -ac "aaa"
+   
 -- add new branch
    git branch develop
    
 -- switch between branches
    git checkout develop
+   
+-- create a new featured branche
+   git checkout -b feature/new-feature
